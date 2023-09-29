@@ -1,0 +1,45 @@
+leftnav:
+- identifier: dea647e1-1d55-826b-df41-9b426c7497d8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8f1f7376-76f2-edc8-d671-df9a98994ac1
+  name: Torrid Telephone
+  pageRef: /pages/torrid-telephone
+  weight: 20
+- identifier: 975ab73f-68c4-7a98-4695-d43a92097a65
+  name: Soggy Furs
+  pageRef: /pages/soggy-furs
+  weight: 30
+- identifier: f788fb1b-8fa0-8f29-a1e7-89b3eb276bc8
+  name: Misplaced Trust
+  pageRef: /pages/misplaced-trust
+  weight: 40
+- identifier: 1fba082f-9776-30ad-8ac0-26970eae4286
+  name: Aluminum Ladders
+  pageRef: /pages/aluminum-ladders
+  weight: 50
+- identifier: ede6c3b4-a888-c0aa-5a65-8ca13e647cb4
+  name: Acid Drum
+  pageRef: /pages/acid-drum
+  weight: 60
+- identifier: af62a137-8617-0a7f-2318-18048c88deb2
+  name: Nefarious Needle
+  pageRef: /pages/nefarious-needle
+  weight: 70
+- identifier: 97882f52-88af-0341-088e-f9ef0bcc0e9b
+  name: Snow Collapses
+  pageRef: /pages/snow-collapses
+  weight: 80
+- identifier: 8633a449-f1ac-d255-ed81-a8379f7ee3e8
+  name: Careening Chip
+  pageRef: /pages/careering-chip
+  weight: 90
+- identifier: 6cfc75ec-ec28-2834-ca05-9bff1d917820
+  name: Worster Tire
+  pageRef: /pages/broken-bead
+  weight: 100
+- identifier: 06613ac4-2652-5c9b-af60-567aaa9d86d0
+  name: Leg Brace
+  pageRef: /pages/leg-brace
+  weight: 110
